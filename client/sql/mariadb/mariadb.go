@@ -1,0 +1,5 @@
+package mariadb
+
+func mariadb() {
+	
+}

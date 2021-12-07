@@ -1,0 +1,5 @@
+package memcached
+
+func memcached() {
+	
+}

@@ -1,0 +1,5 @@
+package nsq
+
+func nsq() {
+	
+}
